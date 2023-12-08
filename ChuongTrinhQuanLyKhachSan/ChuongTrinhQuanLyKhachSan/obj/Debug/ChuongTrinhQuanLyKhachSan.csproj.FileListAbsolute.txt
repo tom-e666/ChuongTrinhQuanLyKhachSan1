@@ -1,0 +1,36 @@
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\ChuongTrinhQuanLyKhachSan.exe.config
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\ChuongTrinhQuanLyKhachSan.exe
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\ChuongTrinhQuanLyKhachSan.pdb
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.Form1.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.Properties.Resources.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.CopyComplete
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.exe
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.pdb
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.Dashboard.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_CustomerRes.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_CheckOut.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_CustomerDetails.resources
+C:\Users\NGUYEN NHAT HUYNH\OneDrive\Máy tính\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_Employee.resources
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.exe
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.pdb
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\ChuongTrinhQuanLyKhachSan.exe.config
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\ChuongTrinhQuanLyKhachSan.exe
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\ChuongTrinhQuanLyKhachSan.pdb
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_AddRoom.resources
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_CheckOut.resources
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_CustomerDetails.resources
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_CustomerRes.resources
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.All_User_Control.UC_Employee.resources
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.Dashboard.resources
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.Form1.resources
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.Properties.Resources.resources
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG DUC\Downloads\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\ChuongTrinhQuanLyKhachSan\obj\Debug\ChuongTrinhQuanLyKhachSan.csproj.CopyComplete
