@@ -33,14 +33,14 @@ namespace ChuongTrinhQuanLyKhachSan
         }
         private void btnAddRoom_Click(object sender, EventArgs e)
         {
-            PanelMoving.Left = btnAddRoom.Left + 50;
+            PanelMoving.Left = btnAddRoom.Left + 10;
             uC_AddRoom1.Visible = true;
             uC_AddRoom1.BringToFront();
         }
 
         private void btnCustomerRes_Click(object sender, EventArgs e)
         {
-            PanelMoving.Left = btnCustomerRes.Left + 60;
+            PanelMoving.Left = btnCustomerRes.Left + 10;
             uC_CustomerRes1.Visible = true;
             uC_CustomerRes1.BringToFront();
           
@@ -48,23 +48,27 @@ namespace ChuongTrinhQuanLyKhachSan
 
         private void btnCheckOut_Click(object sender, EventArgs e)
         {
-            PanelMoving.Left = btnCheckOut.Left + 60;
+            PanelMoving.Left = btnCheckOut.Left + 10;
             uC_CheckOut1.Visible = true;
             uC_CheckOut1.BringToFront();
         }
 
         private void btnCustomerDetail_Click(object sender, EventArgs e)
         {
-            PanelMoving.Left = btnCustomerDetail.Left + 60;
+            PanelMoving.Left = btnCustomerDetail.Left + 10;
             uC_CustomerDetails1.Visible = true;
             uC_CustomerDetails1.BringToFront();
         }
 
         private void btnEmployee_Click(object sender, EventArgs e)
         {
-            PanelMoving.Left = btnEmployee.Left + 60;
+            PanelMoving.Left = btnEmployee.Left + 10;
             uC_Employee1.Visible = true;
             uC_Employee1.BringToFront();
+        }
+        private void btnMinisize_Click_1(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
         }
     }
 }

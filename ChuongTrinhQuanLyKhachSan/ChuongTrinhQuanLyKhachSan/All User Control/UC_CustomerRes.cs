@@ -76,6 +76,7 @@ namespace ChuongTrinhQuanLyKhachSan.All_User_Control
             {
                 MessageBox.Show("Xin vui lòng nhập đầy đủ thông tin.", "Thông Tin", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
+            
         }
 
         public void clearAll()
@@ -95,7 +96,9 @@ namespace ChuongTrinhQuanLyKhachSan.All_User_Control
         }
         private void UC_CustomerRes_Load(object sender, EventArgs e)
         {
-
+            txtCheckin.Format = DateTimePickerFormat.Custom;
+            txtCheckin.CustomFormat = "yyyy-MM-dd HH:mm:ss";
+            txtCheckin.Value = DateTime.Now;
         }
 
         private void UC_CustomerRes_Leave(object sender, EventArgs e)

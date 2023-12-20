@@ -12,6 +12,7 @@ namespace ChuongTrinhQuanLyKhachSan
 {
     class function
     {
+
         protected SqlConnection getConnection()
         {
             SqlConnection con = new SqlConnection();

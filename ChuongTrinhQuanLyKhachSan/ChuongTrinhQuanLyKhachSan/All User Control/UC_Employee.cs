@@ -40,7 +40,7 @@ namespace ChuongTrinhQuanLyKhachSan.All_User_Control
         private void btnRegistaion_Click(object sender, EventArgs e)
         {
            if (txtName.Text != "" && txtMobile.Text != "" && txtGender.Text != "" && txtEmail.Text != "" && txtUsername.Text != "" && txtPassword.Text != "")
-            {
+           {
                 String name = txtName.Text;
                 Int64 mobile = Int64.Parse(txtMobile.Text);
                 String email = txtEmail.Text;
@@ -55,9 +55,13 @@ namespace ChuongTrinhQuanLyKhachSan.All_User_Control
 
                 clearAll();
                 getMaxID();
-            }
-        }
+           }
+           else
+           {
+                MessageBox.Show("Đăng ký Nhân Viên không thành công , Vui lòng nhập đầy đủ thông tin");
+           }
 
+        }
 
         public void clearAll()
         {
@@ -94,7 +98,7 @@ namespace ChuongTrinhQuanLyKhachSan.All_User_Control
                 if (MessageBox.Show("Bạn có chắc chấn muốn xóa không?", "Xác Nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
                 {
                     query = "delete from employee where eid = " + txtID.Text + "";
-                    fn.setData(query, "Thông Tin Nhân Viên Đã Được Xóa!!");
+                    fn.setData(query, "Thông Tin Nhân Viên Đã Được Xóa !!");
                     tabEmployee_SelectedIndexChanged(this, null);
                 }
             }

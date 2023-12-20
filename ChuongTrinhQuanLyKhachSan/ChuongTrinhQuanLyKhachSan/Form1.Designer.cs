@@ -30,8 +30,8 @@ namespace ChuongTrinhQuanLyKhachSan
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.label2 = new System.Windows.Forms.Label();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label3 = new System.Windows.Forms.Label();
             this.labelError = new System.Windows.Forms.Label();
             this.btnLogin = new Guna.UI2.WinForms.Guna2Button();
             this.txtPassword = new Guna.UI2.WinForms.Guna2TextBox();
@@ -43,10 +43,20 @@ namespace ChuongTrinhQuanLyKhachSan
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Comic Sans MS", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(1341, 30);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(545, 51);
+            this.label2.TabIndex = 7;
+            this.label2.Text = "hotel management application";
+            // 
             // guna2Panel1
             // 
             this.guna2Panel1.BackColor = System.Drawing.Color.White;
-            this.guna2Panel1.Controls.Add(this.label3);
+            this.guna2Panel1.Controls.Add(this.label2);
             this.guna2Panel1.Controls.Add(this.labelError);
             this.guna2Panel1.Controls.Add(this.btnLogin);
             this.guna2Panel1.Controls.Add(this.txtPassword);
@@ -55,31 +65,19 @@ namespace ChuongTrinhQuanLyKhachSan
             this.guna2Panel1.Controls.Add(this.guna2PictureBox1);
             this.guna2Panel1.Controls.Add(this.btnExit);
             this.guna2Panel1.Location = new System.Drawing.Point(12, 12);
-            this.guna2Panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(1942, 1102);
+            this.guna2Panel1.Size = new System.Drawing.Size(1942, 1134);
             this.guna2Panel1.TabIndex = 0;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Calibri Light", 10F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.label3.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label3.Location = new System.Drawing.Point(258, 394);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(427, 21);
-            this.label3.TabIndex = 7;
-            this.label3.Text = "*Bạn sẽ chấp nhận các điều khỉa và điệu kiện của chúng tôi.";
             // 
             // labelError
             // 
             this.labelError.AutoSize = true;
             this.labelError.ForeColor = System.Drawing.Color.Red;
-            this.labelError.Location = new System.Drawing.Point(1096, 465);
+            this.labelError.Location = new System.Drawing.Point(1201, 538);
             this.labelError.Name = "labelError";
-            this.labelError.Size = new System.Drawing.Size(209, 16);
+            this.labelError.Size = new System.Drawing.Size(363, 16);
             this.labelError.TabIndex = 6;
-            this.labelError.Text = "Tên đăng nhập hoặc mật khẩu sai";
+            this.labelError.Text = "Thông tin đăng nhập không chính xác, vui lòng đăng nhập lại";
             this.labelError.Visible = false;
             // 
             // btnLogin
@@ -89,13 +87,12 @@ namespace ChuongTrinhQuanLyKhachSan
             this.btnLogin.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnLogin.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.btnLogin.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnLogin.FillColor = System.Drawing.Color.Lime;
             this.btnLogin.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnLogin.ForeColor = System.Drawing.Color.White;
-            this.btnLogin.Location = new System.Drawing.Point(1018, 402);
+            this.btnLogin.Location = new System.Drawing.Point(1178, 573);
             this.btnLogin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(369, 46);
+            this.btnLogin.Size = new System.Drawing.Size(415, 56);
             this.btnLogin.TabIndex = 5;
             this.btnLogin.Text = "Đăng Nhập";
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
@@ -115,13 +112,13 @@ namespace ChuongTrinhQuanLyKhachSan
             this.txtPassword.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtPassword.IconLeft = ((System.Drawing.Image)(resources.GetObject("txtPassword.IconLeft")));
             this.txtPassword.IconLeftSize = new System.Drawing.Size(30, 30);
-            this.txtPassword.Location = new System.Drawing.Point(1018, 325);
+            this.txtPassword.Location = new System.Drawing.Point(1178, 455);
             this.txtPassword.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '*';
             this.txtPassword.PlaceholderText = "Enter Passworđ";
             this.txtPassword.SelectedText = "";
-            this.txtPassword.Size = new System.Drawing.Size(369, 54);
+            this.txtPassword.Size = new System.Drawing.Size(415, 67);
             this.txtPassword.TabIndex = 4;
             // 
             // txtUsername
@@ -139,33 +136,33 @@ namespace ChuongTrinhQuanLyKhachSan
             this.txtUsername.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.txtUsername.IconLeft = ((System.Drawing.Image)(resources.GetObject("txtUsername.IconLeft")));
             this.txtUsername.IconLeftSize = new System.Drawing.Size(30, 30);
-            this.txtUsername.Location = new System.Drawing.Point(1018, 245);
+            this.txtUsername.Location = new System.Drawing.Point(1178, 366);
             this.txtUsername.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.PasswordChar = '\0';
-            this.txtUsername.PlaceholderText = "Enter Username";
+            this.txtUsername.PlaceholderText = "Tên đăng nhập";
             this.txtUsername.SelectedText = "";
-            this.txtUsername.Size = new System.Drawing.Size(369, 54);
+            this.txtUsername.Size = new System.Drawing.Size(415, 67);
             this.txtUsername.TabIndex = 3;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Comic Sans MS", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(1102, 168);
+            this.label1.Location = new System.Drawing.Point(1343, 302);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(179, 41);
+            this.label1.Size = new System.Drawing.Size(91, 41);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Đăng Nhập";
+            this.label1.Text = "Login";
             // 
             // guna2PictureBox1
             // 
             this.guna2PictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox1.Image")));
             this.guna2PictureBox1.ImageRotate = 0F;
-            this.guna2PictureBox1.Location = new System.Drawing.Point(60, 85);
+            this.guna2PictureBox1.Location = new System.Drawing.Point(279, 158);
             this.guna2PictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.guna2PictureBox1.Name = "guna2PictureBox1";
-            this.guna2PictureBox1.Size = new System.Drawing.Size(389, 308);
+            this.guna2PictureBox1.Size = new System.Drawing.Size(640, 640);
             this.guna2PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.guna2PictureBox1.TabIndex = 1;
             this.guna2PictureBox1.TabStop = false;
@@ -194,7 +191,7 @@ namespace ChuongTrinhQuanLyKhachSan
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(1639, 602);
+            this.ClientSize = new System.Drawing.Size(1942, 1102);
             this.Controls.Add(this.guna2Panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -211,15 +208,15 @@ namespace ChuongTrinhQuanLyKhachSan
 
         #endregion
 
+        private System.Windows.Forms.Label label2;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
+        private System.Windows.Forms.Label labelError;
         private Guna.UI2.WinForms.Guna2Button btnLogin;
         private Guna.UI2.WinForms.Guna2TextBox txtPassword;
         private Guna.UI2.WinForms.Guna2TextBox txtUsername;
         private System.Windows.Forms.Label label1;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2CircleButton btnExit;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label labelError;
     }
 }
 
